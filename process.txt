@@ -1,0 +1,6 @@
+make a new enviornement in the python
+    py -m venv env
+getting all the dependencies
+    pip install -r requirements.txt
+start the process:
+    py File.py
